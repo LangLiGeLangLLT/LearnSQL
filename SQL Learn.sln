@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "code", "code", "{BB51FD35-0609-4138-A69F-AD7BF7EBAD0A}"
+	ProjectSection(SolutionItems) = preProject
+		code\CREATE TABLE.sql = code\CREATE TABLE.sql
+		code\EXERCISE.sql = code\EXERCISE.sql
+		code\INSERT.sql = code\INSERT.sql
+		code\SQL Exercise.md = code\SQL Exercise.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "page", "page", "{71E163B4-DD09-4A15-B30D-89EA584B1126}"
+	ProjectSection(SolutionItems) = preProject
+		page\SQL Exercise.html = page\SQL Exercise.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7958F8CE-B317-4561-8969-F5A48BC0AB5B}
+	EndGlobalSection
+EndGlobal
